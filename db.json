@@ -1,0 +1,181 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Наталья Морская Пехота",
+      "cardId": "1",
+      "position": "Frontend-разработчик",
+      "age": 48,
+      "salary": 10000,
+      "workedFor": "3 года, 5 месяцев",
+      "recieved": "Сегодня",
+      "score": null,
+      "starred": true
+    },
+    {
+      "id": "2",
+      "name": "Кащенко Артём Алексеевич",
+      "cardId": "1",
+      "position": "Frontend-разработчик",
+      "age": 35,
+      "salary": 15000,
+      "workedFor": "2 года, 9 месяцев",
+      "recieved": "Вчера",
+      "score": 67,
+      "starred": false
+    },
+    {
+      "id": "3",
+      "name": "Исаков Глеб Ярославович",
+      "cardId": "2",
+      "position": "Менеджер проектов",
+      "age": 42,
+      "salary": 12000,
+      "workedFor": "2 месяца",
+      "recieved": "Сегодня",
+      "score": 56,
+      "starred": false
+    },
+    {
+      "id": "4",
+      "name": "Тарасюк Георгий Фёдорович",
+      "cardId": "3",
+      "position": "Backend-разработчик",
+      "age": 23,
+      "salary": 45000,
+      "workedFor": "1 год, 3 месяца",
+      "recieved": "Вчера",
+      "score": 99,
+      "starred": true
+    },
+    {
+      "id": "5",
+      "name": "Морозов Никита Евгеньевич",
+      "cardId": "2",
+      "position": "Менеджер проектов",
+      "age": 20,
+      "salary": 22000,
+      "workedFor": "3 месяца",
+      "recieved": "6 июня",
+      "score": 98,
+      "starred": true
+    },
+    {
+      "id": "6",
+      "name": "Попов Иван Иванович",
+      "cardId": "3",
+      "position": "Backend-разработчик",
+      "age": 24,
+      "salary": 34000,
+      "workedFor": "1 год",
+      "recieved": "2 июня",
+      "score": null,
+      "starred": false
+    },
+    {
+      "id": "7",
+      "name": "Абрамов Тимофей Львович",
+      "cardId": "3",
+      "position": "Backend-разработчик",
+      "age": 31,
+      "salary": 25000,
+      "workedFor": "6 месяцев",
+      "recieved": "Вчера",
+      "score": 56,
+      "starred": false
+    },
+    {
+      "id": "8",
+      "name": "Богданов Николай Валериевич",
+      "cardId": "2",
+      "position": "Менеджер проектов",
+      "age": 23,
+      "salary": 27000,
+      "workedFor": "Без опыта",
+      "recieved": "Сегодня",
+      "score": 37,
+      "starred": false
+    },
+    {
+      "id": "9",
+      "name": "Орлов Артур Максимович",
+      "cardId": "1",
+      "position": "Frontend-разработчик",
+      "age": 38,
+      "salary": 30000,
+      "workedFor": "3 года, 5 месяцев",
+      "recieved": "15 мая",
+      "score": 56,
+      "starred": false
+    },
+    {
+      "id": "10",
+      "name": "Суворов Андрей Артёмович",
+      "position": "Менеджер проектов",
+      "age": 26,
+      "salary": 26000,
+      "workedFor": "7 месяцев",
+      "recieved": "12 мая",
+      "starred": false
+    }
+  ],
+  "cards": [
+    {
+      "id": "1",
+      "name": "Frontend-разработчики",
+      "position": "Frontend-разработчик"
+    },
+    {
+      "id": "2",
+      "name": "Менеджеры проектов",
+      "position": "Менеджер проектов"
+    },
+    {
+      "id": "3",
+      "name": "Backend-разработчики",
+      "position": "Backend-разработчик"
+    }
+  ],
+  "personnel": [
+    {
+      "id": "1",
+      "name": "Ержан Вставанович",
+      "position": "Admin"
+    },
+    {
+      "id": "2",
+      "name": "Ольга Камчатова",
+      "position": "Сотрудник",
+      "assessment": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Валентин Павлов",
+      "position": "HR",
+      "assessment": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Александр Кокорин",
+      "position": "Сотрудник",
+      "assessment": [
+        "2"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Ярослав Дагиров",
+      "position": "HR",
+      "assessment": [
+        "2",
+        "3"
+      ]
+    }
+  ]
+}
